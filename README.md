@@ -1,6 +1,6 @@
 # Simple_Spotify_CLONE
 
-<a src='https://rpg-spotify-clone1.netlify.app/'>View Project<a>
+<a href='https://rpg-spotify-clone1.netlify.app/'>View Project<a>
 
 Simple_Spotify_CLONE using HTML CSS JAVA-SCRIPT
 
